@@ -6,7 +6,8 @@ const themes = [
     ['Basic SCSS', themesScss.basic],
     ['Red SCSS', themesScss.red],
     ['Basic Emotion', themesEmotion.basic],
-    ['Red Emotion', themesEmotion.red],
+    ['Red Emotion Broken', themesEmotion.red],
+    ['Red Emotion Tricked', themesEmotion.redTrick],
 ];
 
 function App() {

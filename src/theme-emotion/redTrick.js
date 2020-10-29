@@ -5,7 +5,9 @@ import basic from './basic';
 const app = css`
   ${basic.app};
 
-  background-color: lightcoral;
+  && {
+    background-color: lightcoral;  
+  }
 `;
 
 export default {
