@@ -27,6 +27,7 @@ function App() {
         ))
       }
       <p>Red Emotion style does not override background color when screen > 768px</p>
+      <p><a href="https://github.com/bukowskiadam/scss-to-emotion">github</a></p>
     </div>
   );
 }
